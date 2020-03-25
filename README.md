@@ -1,3 +1,8 @@
+
+## About This Repo
+This is a project of ReactJS for making simple game.
+
+
 # How To Use:
 
 ## Using Git
@@ -5,6 +10,10 @@
 Better to make a project directory before start cloning some github projects!
 
 `mkdir project`
+
+go to that folder
+
+`cd project`
 
 than run:
 

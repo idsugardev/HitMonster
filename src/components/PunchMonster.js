@@ -46,8 +46,8 @@ function PunchMonster(){
    <div className="col s12 m12">
      <div className="row">
      <div className="monster">
-      <img src="/images/monster.png" style={{display: tampak}}/>
-      <img src="/images/monsterdead.png" style={{display: hilang}}/>
+      <img src="/hitmonster/images/monster.png" style={{display: tampak}} alt="monster"/>
+      <img src="/hitmonster/images/monsterdead.png" style={{display: hilang}} alt="monster dead"/>
      </div>
      </div>
       <div className="row">
