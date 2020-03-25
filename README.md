@@ -2,6 +2,25 @@
 
 ## Using Git
 
+Better to make a project directory before start cloning some github projects!
+
+`mkdir project`
+
+than run:
+
+`git clone https://github.com/idsugardev/HitMonster.git`
+
+than, start install depedencies:
+
+`npm install`
+
+wait until install success, and make it online (dev mode):
+
+`npm run start`
+
+access on your browser:
+
+`http://localhost:3000`
 
 
 ## Manual
