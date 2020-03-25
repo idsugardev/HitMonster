@@ -20,7 +20,7 @@ wait until install success, and make it online (dev mode):
 
 access on your browser:
 
-`http://localhost:3000`
+`http://localhost:3000/hitmonster`
 
 
 ## Manual
@@ -49,4 +49,4 @@ Run this on your terminal / console:
 
 Access project on browser:
 
-http://localhost:3000
+`http://localhost:3000/hitmonster`
